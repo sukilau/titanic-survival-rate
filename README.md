@@ -1,5 +1,5 @@
 # titanic-survival-rate
-<h1>Predict Survival on the Titanic (Kaggle Project)</h1>
+## Predict Survival on the Titanic (Kaggle Project)
 
 This is my submission on a kickstart project to Kaggle. The problem is to predict the survival rate of passengers on the Titanic given a training set with the following attributes : 
 
